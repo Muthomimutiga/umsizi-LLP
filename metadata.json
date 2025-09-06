@@ -1,0 +1,6 @@
+{
+  "name": "Umsizi LLP Document Portal",
+  "description": "A web application for generating legal documents like Arbitral Award Recitals and Form CR20 for Umsizi LLP. Users can input details through a multi-step form, review the information, and then send it to a webhook for document generation.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
